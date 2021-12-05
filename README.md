@@ -1,4 +1,4 @@
-Project Title :  visualisation and forecasting of stocks 
+PROJECT Title :  Visualisation and Forecasting of Stocks 
 
  Description : 
 The Stock Exchange or Wall Street traders regularly research, evaluate, and follow the stock values of various firms' shares. These charts make it simpler for traders to visualise the behaviour of equities and forecast trends. But what if we could use these statistics to forecast the future stock price for a certain date?
